@@ -1,0 +1,45 @@
+.choose {
+  margin: 80px 20px 30px 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.allWife {
+  margin: 20px;
+}
+
+.wife {
+  width: 100%;
+  /* border: 1px solid rgb(24, 144, 255); */
+  position: relative;
+}
+.price {
+  text-align: center;
+}
+.tag {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+.line {
+  border: 0;
+  background-color: rgb(24, 144, 255);
+  width: 25%;
+  height: 2px;
+}
+.show-price {
+  font-size: 25px;
+  font-weight: 550;
+}
+.show-title {
+  height: 40px;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.size-title {
+  cursor: pointer;
+}
+.kucun {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
